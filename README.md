@@ -1,14 +1,13 @@
 # 📌 할 일 관리(Todo)기
 
-주어진 API를 활용해 '[완성 예시](https://beautiful-daifuku-b9462c.netlify.app/)' 처럼 자유롭게 할 일 관리(Todo) 기능을 구현해보세요!    
-과제 수행 및 리뷰 기간은 별도 공지를 참고하세요!
+'[todo list](https://resilient-gaufre-8879a8.netlify.app/)'
 
 ## 과제 수행 및 제출 방법
 
 ```
 KDT기수번호_이름
 
-E.g, KDT0_ParkYoungWoong
+E.g, KDT0_
 ```
 
 1. 현재 저장소를 로컬에 클론(Clone)합니다.
